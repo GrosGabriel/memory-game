@@ -10,7 +10,7 @@ There are 3 levels :
 You have to tap on two tiles that have the same color/id to reveal them. The game ends when you have revealed everything.
 
 ## The application is available [here](https://GrosGabriel.github.io/memory_game/)
-) :
+
 
 
 
