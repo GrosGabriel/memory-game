@@ -64,6 +64,7 @@ class CardComponent extends PositionComponent with TapCallbacks, HasGameReferenc
       style: TextStyle(
         color: Colors.white,
         fontWeight: FontWeight.bold,
+        fontSize : size.y / 2,
       ),
     );
   }
